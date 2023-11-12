@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.searchBar{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
